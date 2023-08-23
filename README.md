@@ -1,5 +1,14 @@
-### Hi there 👋
+# Stephen Kullman
 
+I'm currently a Masters Candidate at the University of Virginia School of Data Science. I was previously a Senior Technical Specialist at Pall Corporation, working with clients to model, design, and execute critical filtration projects and report to client management. I'm interested in helping organizations analyze large amounts of data and communicating high-level insights.
+
+![alt text](https://media.licdn.com/dms/image/C4D16AQGN3kfd04tvXA/profile-displaybackgroundimage-shrink_200_800/0/1602365010917?e=2147483647&v=beta&t=O8L4rbhp0dLqoHcHCQRMiBGV8IdcgeoBcwJo6z6B_7o)
+
+## Education
+
+* Masters in Data Science, University of Virginia, School of Data Science
+  * Expected Graduation May 2024
+* Bachelors of Science in Civil Engineering, University of Virginia
 <!--
 **sjk5cu/sjk5cu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
