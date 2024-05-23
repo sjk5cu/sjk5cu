@@ -7,7 +7,7 @@ I'm currently a Masters Candidate at the University of Virginia School of Data S
 ## Education
 
 * Masters in Data Science, University of Virginia, School of Data Science
-  * Expected Graduation May 2024
+  * Graduated May 2024
 * Bachelors of Science in Civil Engineering, University of Virginia
 <!--
 **sjk5cu/sjk5cu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
