@@ -2,7 +2,6 @@
 
 I'm currently a Masters Candidate at the University of Virginia School of Data Science. I was previously a Senior Technical Analyst at Pall Corporation, working with clients to model, design, and execute critical filtration projects and report to senior management. I'm interested in helping organizations analyze large amounts of data and communicating high-level insights.
 
-![alt text](https://media.licdn.com/dms/image/C4D16AQGN3kfd04tvXA/profile-displaybackgroundimage-shrink_200_800/0/1602365010917?e=2147483647&v=beta&t=O8L4rbhp0dLqoHcHCQRMiBGV8IdcgeoBcwJo6z6B_7o)
 
 ## Education
 
