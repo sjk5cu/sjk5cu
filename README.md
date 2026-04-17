@@ -1,6 +1,6 @@
 # Stephen Kullman
 
-I'm currently a Masters Candidate at the University of Virginia School of Data Science. I was previously a Senior Technical Analyst at Pall Corporation, working with clients to model, design, and execute critical filtration projects and report to senior management. I'm interested in helping organizations analyze large amounts of data and communicating high-level insights.
+I'm currently a data scientist at Comcast, working on time series forecasting and econometrics modeling, and providing analyses and recommendations to stakeholders. I was previously a Senior Technical Analyst at Pall Corporation, working with clients to model, design, and execute critical filtration projects and report to senior management. I'm interested in helping organizations analyze large amounts of data and communicating high-level insights.
 
 
 ## Education
