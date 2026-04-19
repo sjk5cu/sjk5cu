@@ -6,7 +6,6 @@ I'm currently a data scientist at Comcast, working on time series forecasting an
 ## Education
 
 * Masters in Data Science, University of Virginia, School of Data Science
-  * Graduated May 2024
 * Bachelors of Science in Civil Engineering, University of Virginia
 <!--
 **sjk5cu/sjk5cu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
